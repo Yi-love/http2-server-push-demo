@@ -1,0 +1,25 @@
+{
+  "name": "http2-server-push-demo",
+  "version": "1.0.0",
+  "description": "http/2 server push demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yi-love/http2-server-push-demo.git"
+  },
+  "keywords": [
+    "HTTP/2",
+    "HTTP2",
+    "Node.js",
+    "Server Push"
+  ],
+  "author": "Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yi-love/http2-server-push-demo/issues"
+  },
+  "homepage": "https://github.com/Yi-love/http2-server-push-demo#readme"
+}
